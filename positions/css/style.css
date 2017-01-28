@@ -1,0 +1,23 @@
+.container {
+	margin: 20px 90px 50px 90px;
+}
+.parent1 {
+	background: #eee;
+	position: relative;
+	padding:40px;
+}
+.child1 {
+    background: #666;
+    width: 18%;
+    padding: 20px;
+    position: absolute;
+    right: -40px;
+}
+.child2 {
+    background: #6ea3da;
+    width: 7%;
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
