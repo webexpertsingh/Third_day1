@@ -28,16 +28,19 @@ section {
 #left {
 	background: #666;
 	float: left;
+	color: #fff;
 }
 
 #middle {
 	background: #888;
 	float: left;
+	color: #fff;
 }
 
 #right {
 	background: #666;
 	float: left;
+	color: #fff;
 }
 
 #full {
